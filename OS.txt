@@ -1,0 +1,3 @@
+UAS OS
+user = admin
+passwd = 1234
